@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf4e6a598c350ef499cd2b72f48c8289, type: 3}
+  m_Name: ImpStats
+  m_EditorClassIdentifier: 
+  maxHp: 8
+  energy: 0
+  ad: 0
+  ap: 0
+  armor: 5
+  attackRange: 1
+  sightRange: 15
+  attackSpeed: 1
+  speed: 3
+  walkPointRangeX: 3
+  walkPointRangeY: 3
+  alreadyAttacked: 0
